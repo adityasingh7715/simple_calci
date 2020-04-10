@@ -6,7 +6,7 @@ body {
 #container {
     width: 1000px;
     height: 550px;
-    margin: 30px auto;
+    margin: 50% auto 30px auto;
 }
 
 #calculator {
